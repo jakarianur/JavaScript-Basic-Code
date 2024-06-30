@@ -8,8 +8,8 @@
 </head>
 <body>
     <script>
-        alert("JakariaA Group");
-        document.write("JakariaZ Group");
+        alert("JakariaA");
+        document.write("JakariaN");
         console.log("Md Jakaria Nur");
     </script>
 </body>
