@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
     <title>Md Jakaria Nur</title>
 </head>
 <body>
     <script>
         alert("JakariaA");
-        document.write("JakariaN");
-        console.log("Md Jakaria Nur");
+        console.log("JakariaN");
+        document.write("JakaFast<br/>");
+        document.write("JakaBest");
     </script>
 </body>
 </html>
